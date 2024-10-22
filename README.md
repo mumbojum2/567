@@ -1,8 +1,6 @@
 > # **Hi** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fnintendoboi22.github.io%2Fpancake.pookie.apple%2F&count_bg=%23AF11F6&title_bg=%235C5C5C&icon=github.svg&icon_color=%23AF11F6&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 ![🥵](spicey.png)
 
-# **MY SITE DONE GOT BANNED, AT MY SCHOOL**
-![RAHHHH](https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3ea1dcffcb68152a70549_50.png)
 > # TODO list
 -  **Add more games**
 -  [Google WebApp](https://support.google.com/googleplay/work/answer/9147423?hl=en)
