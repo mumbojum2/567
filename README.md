@@ -39,5 +39,5 @@
 4. **[Vercel 3](https://nintendoboi22-github-io-git-main-nintendoboi2s-projects.vercel.app/)**
   
 > # DMCA
-- **[DMCA, if needed](https://nintendoboi22.github.io/licence-stuff/dmca)**
+- **[DMCA, if needed](https://nintendoboi222.github.io/licence-stuff/dmca)**
 
