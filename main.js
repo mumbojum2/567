@@ -30,7 +30,7 @@ window.addEventListener("keydown", function (e) {
       document.head.appendChild(link);
       
       // Open Google Classroom in a new tab
-      window.open("https://drive.google.com", "_blank");
+      window.location.href("https://drive.google.com", "_blank");
   }
 });
 
@@ -80,28 +80,3 @@ document.addEventListener("DOMContentLoaded", (event) => {
       splashText();
     });
 });
-
-/*
-auth=[{username:"Student", password:"Lobster"},
- {username:"Owner", password:"Frog"}];
-function checkpassword(username,password,auth){
-return auth.username==username && auth.password==password;
-};
-document.onkeypress = function (e) { if(e.key == "Enter" && login.focus){
-  unlockpage();
-}};
-function unlockpage(){
-      page_cookie.login=true; 
-      document.cookie=JSON.stringify(page_cookie);
-      maincontent.classList.remove("lock");
-      login.classList.add("lock");
-        }
-if (page_cookie.login){unlockpage();}
-button.onclick=()=>{
-      for (let i=0; i<auth.length; i++){
-if (checkpassword(user.value,password.value,auth[i])){
-          unlockpage();
-      }
-    }
-}
-*/
